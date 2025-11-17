@@ -12,9 +12,57 @@ Date : 17/11/2025
 Lieu : Lycée Chevrollier
 */
 
-
 :root {
-    --primary-color: #002D72;   /* couleur de fond du logo */
-    --secondary-color: #ffd700; /* couleur du texte du logo et du cavalier */
-    --third-color: #0055A4;     /* couleur du disque du logo */
+    --primary-color: #073075; /* couleur de fond du logo */
+    --secondary-color: #e9ae1b; /* couleur du texte du logo et du cavalier */
+    --third-color: #0044ad; /* couleur du disque du logo */
+    --shadow-color: #0000003d;
 }
+
+html, body {
+    margin : 0;
+    padding : 0;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+#logo {
+    height: 125px;
+    width: auto;
+}
+
+header, section > ul {
+    display: flex;
+    align-items: center;
+}
+
+header {
+    overflow: hidden;
+    border-radius: 0 0 30px 30px;
+    box-shadow: 0px 2px 15px var(--shadow-color);
+}
+
+header > h1 {
+    width: 100vw;
+    text-align: center;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 50px;
+    box-shadow: 2px 2px 2px 2px var(--shadow-color);
+}
+
+section > ul {
+    padding: 0;
+    list-style: none;
+    justify-content: center;
+    gap: 20vw;
+}
+
+a {
+    color: var(--secondary-color);
+    text-decoration: underline;
+}
+
