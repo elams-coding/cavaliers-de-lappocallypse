@@ -1,5 +1,20 @@
+/*
+style.css
+
+Feuille de style utilisé pour les pages du site pour le club d'échecs : Cavaliers de l'apocalypse.
+
+--------------
+
+Par El Amine MAHAMOUD
+Etudiant en BTS SIO première année.
+
+Date : 17/11/2025
+Lieu : Lycée Chevrollier
+*/
+
+
 :root {
-    --primary-color: ;
-    --ssecondary-color: ;
-    --third-color: ;
+    --primary-color: #002D72;   /* couleur de fond du logo */
+    --secondary-color: #ffd700; /* couleur du texte du logo et du cavalier */
+    --third-color: #0055A4;     /* couleur du disque du logo */
 }
