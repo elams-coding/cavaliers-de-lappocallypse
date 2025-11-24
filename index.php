@@ -8,7 +8,7 @@
         content="Site Web du club d'échec les Cavaliers de l'apocalypse. Ici, vous trouverez les actualités de votre club d'échecs.">
     <meta http-equiv="X-UA-Compatible" content="IE=7">
     <title>Cavaliers de l'apocalypse</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -20,25 +20,11 @@
 </head>
 
 <body>
-    <header>
-        <!-- (En-tête) Bannière du site web -->
-        <img id="logo" src="img/logo.png" alt="Logo du club d'échecs : Cavaliers de l'apocalypse">
-        <h1>Cavaliers&NonBreakingSpace;de l'apocalypse</h1>
-    </header>
+    <?php
+    include 'assets/include/header.php';
 
-    <section>
-        <!-- Section qui sert de menu -->
-        <p>Menu</p>
-
-        <hr>
-
-        <ul>
-            <li><a href="articles_box" target="_self">Articles</a></li>
-            <li><a href="pages/club_infos.html" target="_blank">Infos&NonBreakingSpace;du&NonBreakingSpace;club et
-                    membres</a></li>
-            <li><a href="pages/contact.html" target="_blank">Contact</a></li>
-        </ul>
-    </section>
+    include 'assets/include/menu.php';
+    ?>
 
     <main>
         <!-- Contenu principal de la page -->
@@ -52,9 +38,9 @@
 
         <hr id="main-line">
 
-        <article>
-            <span class="titre-section">Articles</span>
+        <span class="titre-section">Articles</span>
 
+        <article>
             <div id="container-articles">
                 <div class="box-article">
                     <h2>Annonce du tournoi à venir &laquo; Open d'Automne &raquo;</h2>
@@ -140,9 +126,7 @@
         </article>
     </main>
 
-    <footer>
-        <!-- Pied de page  -->
-    </footer>
+    <?php include 'assets/include/footer.php'; ?>
 </body>
 
 </html>

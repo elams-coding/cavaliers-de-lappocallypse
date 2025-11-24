@@ -20,7 +20,6 @@ Lieu : Lycée Chevrollier
     --third-color: #0044ad;
     /* couleur du disque du logo */
     --shadow-color: #0000003d;
-    --default-box-padding: 20px;
     --text-font: "Story Script";
 }
 
@@ -30,7 +29,7 @@ body {
     padding: 0;
     background-color: var(--primary-color);
     color: var(--secondary-color);
-    font-family: Ubuntu;
+    font-family: "Ubuntu";
 }
 
 #logo {
@@ -39,13 +38,14 @@ body {
 }
 
 header,
+footer>div,
 section>ul {
     display: flex;
     align-items: center;
 }
 
 header {
-    margin: auto var(--default-box-padding);
+    margin: auto 20px;
     overflow: hidden;
     border-radius: 0 0 30px 30px;
     box-shadow: 0px 2px 15px var(--shadow-color);
@@ -60,20 +60,20 @@ header>h1 {
 }
 
 section {
-    margin: var(--default-box-padding);
-    padding: 3px var(--default-box-padding);
+    margin: 20px;
+    padding: 3px 20px;
     border-radius: 50px;
     box-shadow: 0px 2px 2px 2px var(--shadow-color);
     overflow: hidden;
 }
 
-section > p {
+section>p {
     text-align: center;
     font-weight: bolder;
     text-shadow: 0px 2px 2px var(--third-color);
 }
 
-section > ul {
+section>ul {
     padding: 0;
     font-size: x-large;
     list-style: none;
@@ -86,8 +86,8 @@ a {
 }
 
 main {
-    margin: var(--default-box-padding);
-    padding: var(--default-box-padding);
+    margin: 20px;
+    padding: 20px;
     box-shadow: 0px 2px 2px 2px var(--shadow-color);
     border-radius: 30px;
 }
@@ -116,17 +116,25 @@ hr {
 }
 
 article {
+    margin-top: 20px;
     display: flex;
     flex-direction: column;
     gap: 20px;
-    overflow: hidden;
+    max-width: 100%;
+    overflow-x: auto;
+    scrollbar-width: none;
+    scroll-behavior: smooth;
 }
 
 #container-articles {
+    padding-bottom: 5px;
     display: flex;
     flex-direction: row;
     gap: 30px;
     width: max-content;
+    overflow-x: scroll;
+    scrollbar-width: none;
+    scroll-behavior: smooth;
 }
 
 .container-articles::-webkit-scrollbar {
@@ -151,11 +159,21 @@ article {
     letter-spacing: 2px;
 }
 
-.know-more, .date-article {
+.know-more,
+.date-article {
     font-size: smaller;
 }
 
-.know-more::after, .date-article {
+.know-more::after,
+.date-article {
     content: "...";
     letter-spacing: 3px;
+}
+
+footer {
+    border-radius: 30px 30px 0 0;
+    box-shadow: 0px 2px 15px var(--shadow-color);
+    margin: auto 20px;
+    overflow: hidden;
+
 }
