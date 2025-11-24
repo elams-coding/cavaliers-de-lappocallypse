@@ -119,14 +119,14 @@ article {
     display: flex;
     flex-direction: column;
     gap: 20px;
+    overflow: hidden;
 }
 
 #container-articles {
     display: flex;
+    flex-direction: row;
     gap: 30px;
     width: max-content;
-    overflow-x: scroll;
-    scrollbar-width: none;
 }
 
 .container-articles::-webkit-scrollbar {
@@ -136,11 +136,10 @@ article {
 .box-article {
     padding: 5px 20px;
     width: 500px;
-    height: fit-content;
+    height: 450px;
     border-radius: 30px;
     box-shadow: 0px 2px 2px 2px var(--shadow-color);
     background: var(--third-color);
-    overflow: hidden;
 }
 
 .img-article {
