@@ -3,30 +3,31 @@
     <div>
         <div>
             <h3>Nous retrouver sur nos réseaux</h3>
+            
             <ul>
                 <li>
-                    <div>
+                    <a href="https://discord.com">
                         <img class="logo-marque" src="assets/img/discord-logo.png" alt="Logo de Discord">
-                        <a href="https://discord.com/">Discord</a>
-                    </div>
+                        <span>Discord</span>
+                    </a>
                 </li>
                 
                 <hr>
 
                 <li>
-                    <div>
-                        <img class="logo-marque" src="assets/img/facebook-logo.png" alt="Logo de Facebook">
-                        <a href="https://facebook.com/">Facebook</a>
-                    </div>
+                    <a href="https://facebook.com">
+                        <img class="logo-marque" src="assets/img/facebook-logo.png" alt="Logo de Facebooks">
+                        <span>Facebook</span>
+                    </a>
                 </li>
 
                 <hr>
-                
+
                 <li>
-                    <div>
-                        <img class="logo-marque" src="assets/img/x-logo.png" alt="Logo de X, ancien Twitter">
-                        <a href="https://x.com/">X</a>
-                    </div>
+                    <a href="https://x.com">
+                        <img class="logo-marque" src="assets/img/x-logo.png" alt="Logo de X">
+                        <span>X</span>
+                    </a>
                 </li>
             </ul>
         </div>
@@ -45,6 +46,7 @@
             </ul>
         </div>
     </div>
+
     <div id="last-lines">
         <span>Cavalier de l'apocalypse</span>
         <span>

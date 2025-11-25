@@ -181,11 +181,20 @@ footer {
 
 footer>div {
     display: flex;
-    justify-content: space-between;
+    flex-direction: row;
+}
+
+footer> div div:nth-child(1) {
+    margin: 0 5% 0 10%;
+}
+
+footer> div div:nth-child(3) {
+    margin: 0 10% 0 5%;
 }
 
 footer ul {
     list-style-type: none;
+    padding: 0 10px;
 }
 
 footer ul li {
@@ -193,13 +202,13 @@ footer ul li {
     width: 100%;
 }
 
-footer ul li div {
+footer ul li a {
     display: flex;
+    flex-direction: row;
     align-items: center;
-    width: 100%;
 }
 
-footer ul li div a {
+footer ul li a span {
     width: 100%;
     text-align: right;
 }
@@ -213,11 +222,9 @@ footer ul li a {
 }
 
 #last-lines {
+    margin: 10px 0 15px 0;
     display: flex;
     flex-direction: column;
     align-items: center;
-}
-
-#last-lines span {
-    margin-bottom: 10px;
+    gap: 5px;
 }
