@@ -3,7 +3,7 @@
     <div>
         <div>
             <h3>Nous retrouver sur nos réseaux</h3>
-            
+
             <ul>
                 <li>
                     <a href="https://discord.com">
@@ -38,7 +38,7 @@
             <h3>Mentions légales</h3>
             <ul>
                 <li>
-                    <a href="assets/pages/">Lien vers les mentions légales</a>
+                    <a href="assets/pages/mentions_légales.php">Lien vers les mentions&NonBreakingSpace;légales</a>
                 </li>
                 <li>
                     <button type="button">Télécharger les mentions légales</button>
