@@ -44,7 +44,7 @@
             <div id="container-articles">
                 <div class="box-article">
                     <h2>Annonce du tournoi à venir &laquo; Open d'Automne &raquo;</h2>
-                    <img class="img-article" src="img/chess in front of computer.jpg"
+                    <img class="img-article" src="assets/img/chess in front of computer.jpg"
                         alt="Illustration de pions d'un plateau d'échecs en face d'un écran d'ordinateur">
                     <div class="text-content">
                         <p class="summary">Le club prépare l'&laquo; Open d'Automne &raquo;, un événement ouvert à tous
@@ -59,7 +59,7 @@
 
                 <div class="box-article">
                     <h2>Lancement d'ateliers pour les débutants</h2>
-                    <img class="img-article" src="img/chess in front of computer.jpg"
+                    <img class="img-article" src="assets/img/chess in front of computer.jpg"
                         alt="Illustration de pions d'un plateau d'échecs en face d'un écran d'ordinateur">
                     <div class="text-content">
                         <p class="summary">De nouveaux ateliers hebdomadaires sont proposés pour aider les débutants à
@@ -73,7 +73,7 @@
 
                 <div class="box-article">
                     <h2>Accueil d'un maître international pour une séance de simultanée</h2>
-                    <img class="img-article" src="img/chess in front of computer.jpg"
+                    <img class="img-article" src="assets/img/chess in front of computer.jpg"
                         alt="Illustration de pions d'un plateau d'échecs en face d'un écran d'ordinateur">
                     <div class="text-content">
                         <p class="summary">Le club recevra prochainement un maître international pour une séance
@@ -90,7 +90,7 @@
 
                 <div class="box-article">
                     <h2>Retour sur le tournoi &laquo; Gambit de Printemps &raquo;</h2>
-                    <img class="img-article" src="img/chess in front of computer.jpg"
+                    <img class="img-article" src="assets/img/chess in front of computer.jpg"
                         alt="Illustration de pions d'un plateau d'échecs en face d'un écran d'ordinateur">
                     <div class="text-content">
                         <p class="summary">
@@ -106,7 +106,7 @@
 
                 <div class="box-article">
                     <h2>Nouveau site web disponible</h2>
-                    <img class="img-article" src="img/chess in front of computer.jpg"
+                    <img class="img-article" src="assets/img/chess in front of computer.jpg"
                         alt="Illustration de pions d'un plateau d'échecs en face d'un écran d'ordinateur">
                     <div class="text-content">
                         <p class="summary">Ô jeune pousse, les Cavaliers de l'apocalypse vous présente leur nouveau site
