@@ -28,7 +28,7 @@
 
     <main>
         <!-- Contenu principal de la page -->
-        <span class="titre-section">Citation du jour</span>
+        <h3 class="titre-section">Citation du jour</h3>
         <div>
             <blockquote>Aussi paresseux que nous aimons prétendre l'être, notre cerveau a soif de
                 défis et de développements toute notre vie. Et le jeu d'échecs nourrit parfaitement ce besoin
@@ -38,7 +38,7 @@
 
         <hr id="main-line">
 
-        <span class="titre-section">Articles</span>
+        <h3 class="titre-section">Articles</h3>
 
         <article>
             <div id="container-articles">

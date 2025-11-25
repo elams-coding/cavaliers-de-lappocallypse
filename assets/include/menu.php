@@ -1,6 +1,6 @@
 <section>
     <!-- Section qui sert de menu -->
-    <p>Menu</p>
+    <h3>Menu</h3>
 
     <hr>
 
