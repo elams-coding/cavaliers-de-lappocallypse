@@ -11,7 +11,7 @@
                         <span>Discord</span>
                     </a>
                 </li>
-                
+
                 <hr>
 
                 <li>
@@ -38,10 +38,11 @@
             <h3>Mentions légales</h3>
             <ul>
                 <li>
-                    <a href="assets/pages/mentions_légales.php">Lien vers les mentions&NonBreakingSpace;légales</a>
+                    <a href="assets/pages/mentions_legales.php">Lien vers les mentions&NonBreakingSpace;légales</a>
                 </li>
                 <li>
-                    <button type="button">Télécharger les mentions légales</button>
+                    <!-- <a class="link-download" href="assets/ressource/mentions_legales.pdf"
+                        download="mentions_legales.pdf">Télécharger les mentions&NonBreakingSpace;légales</a> -->
                 </li>
             </ul>
         </div>

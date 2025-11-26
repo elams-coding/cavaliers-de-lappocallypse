@@ -126,7 +126,7 @@
         </article>
     </main>
 
-    <?php include 'assets/include/footer.php'; ?>
+    <?php include 'assets/includes/footer.php'; ?>
 </body>
 
 </html>
