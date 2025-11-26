@@ -223,7 +223,7 @@ footer ul {
 #box-legal-notices ul {
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 25px;
 }
 
 .download-link {
