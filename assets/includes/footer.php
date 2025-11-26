@@ -1,7 +1,7 @@
 <footer>
     <!-- Pied de page  -->
     <div>
-        <div>
+        <div id="box-social-media" class="footer-sub-boxes">
             <h3>Nous retrouver sur nos réseaux</h3>
 
             <ul>
@@ -34,26 +34,25 @@
 
         <hr>
 
-        <div>
+        <div id="box-legal-notices" class="footer-sub-boxes">
             <h3>Mentions légales</h3>
             <ul>
                 <li>
                     <a href="assets/pages/mentions_legales.php">Lien vers les mentions&NonBreakingSpace;légales</a>
                 </li>
                 <li>
-                    <!-- <a class="link-download" href="assets/ressource/mentions_legales.pdf"
-                        download="mentions_legales.pdf">Télécharger les mentions&NonBreakingSpace;légales</a> -->
+                    <a class="download-link" href="assets/ressource/mentions_legales.pdf"
+                        download="mentions_legales.pdf">Télécharger&NonBreakingSpace;les&NonBreakingSpace;mentions&NonBreakingSpace;légales</a>
                 </li>
             </ul>
         </div>
     </div>
 
     <div id="last-lines">
-        <span>Cavalier de l'apocalypse</span>
+        <span>Cavalier&NonBreakingSpace;de&NonBreakingSpace;l'apocalypse</span>
         <span>
-            &copy;
-            <?php echo date("Y") ?>
-            Tous droits réservés.
+            &copy;&NonBreakingSpace;<?php echo date("Y") ?>
+            Tous&NonBreakingSpace;droits&NonBreakingSpace;réservés.
         </span>
     </div>
 </footer>

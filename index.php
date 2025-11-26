@@ -21,9 +21,9 @@
 
 <body>
     <?php
-    include 'assets/include/header.php';
+    include 'assets/includes/header.php';
 
-    include 'assets/include/menu.php';
+    include 'assets/includes/menu.php';
     ?>
 
     <main>
