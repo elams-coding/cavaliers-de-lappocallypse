@@ -29,6 +29,7 @@ body {
     background-color: var(--third-color);
     color: var(--secondary-color);
     font-family: "Ubuntu";
+    scroll-behavior: smooth;
 }
 
 #logo {
@@ -235,7 +236,6 @@ footer ul {
 }
 
 .logo-marque {
-    width: fit-content !important;
     height: 25px !important;
 }
 

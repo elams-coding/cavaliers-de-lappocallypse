@@ -38,7 +38,7 @@
 
         <hr id="main-line">
 
-        <h3 class="titre-section">Articles</h3>
+        <h3 id="title-section-articles" class="titre-section">Articles</h3>
 
         <article>
             <div id="container-articles">
