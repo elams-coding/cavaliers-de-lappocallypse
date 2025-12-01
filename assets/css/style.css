@@ -128,6 +128,10 @@ article {
     scroll-behavior: smooth;
 }
 
+article a {
+    text-decoration: none;
+}
+
 #container-articles {
     padding: 5px;
     display: flex;
@@ -146,7 +150,7 @@ article {
 .box-article {
     padding: 5px 20px;
     width: 500px;
-    height: 450px;
+    height: 465px;
     border-radius: 30px;
     box-shadow: 0px 2px 5px var(--secondary-color);
     background: var(--third-color);
