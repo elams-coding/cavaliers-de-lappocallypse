@@ -41,7 +41,7 @@
                     <a href="assets/pages/mentions_legales.php">Lien vers les mentions&NonBreakingSpace;légales</a>
                 </li>
                 <li>
-                    <a class="download-link" href="assets/ressource/mentions_legales.pdf"
+                    <a class="download-link" href="assets/ressources/mentions_legales.pdf"
                         download="mentions_legales.pdf">Télécharger&NonBreakingSpace;les&NonBreakingSpace;mentions&NonBreakingSpace;légales</a>
                 </li>
             </ul>
