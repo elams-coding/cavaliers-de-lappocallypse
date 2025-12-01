@@ -45,7 +45,7 @@
                 <a href="assets/pages/articles/index.php">
                     <div class="box-article">
                         <h2>Annonce du tournoi à venir &laquo; Open d'Automne &raquo;</h2>
-                        <img class="img-article" src="assets/img/tournoi d'échecs.avif"
+                        <img class="article-image" src="assets/img/tournoi d'échecs.avif"
                             alt="Plateau d'échecs avec des pions en bois">
                         <div class="text-content">
                             <p class="summary">Le club prépare l'&laquo; Open d'Automne &raquo;, un événement ouvert à
@@ -63,7 +63,7 @@
                 <a href="assets/pages/articles/index.php">
                     <div class="box-article">
                         <h2>Lancement d'ateliers pour les débutants</h2>
-                        <img class="img-article" src="assets/img/plateau d'échecs.avif"
+                        <img class="article-image" src="assets/img/plateau d'échecs.avif"
                             alt="Plateau d'échecs en verre avec des pions en verre">
                         <div class="text-content">
                             <p class="summary">De nouveaux ateliers hebdomadaires sont proposés pour aider les débutants
@@ -80,7 +80,7 @@
                 <a href="assets/pages/articles/index.php">
                     <div class="box-article">
                         <h2>Accueil d'un maître international pour une séance de simultanée</h2>
-                        <img class="img-article" src="assets/img/maître d'échecs.avif"
+                        <img class="article-image" src="assets/img/maître d'échecs.avif"
                             alt="Maître d'échecs qui joue en simultanée avec des jeunes joueurs">
                         <div class="text-content">
                             <p class="summary">Le club recevra prochainement un maître international pour une séance
@@ -99,7 +99,7 @@
                 <a href="assets/pages/articles/index.php">
                     <div class="box-article">
                         <h2>Retour sur le tournoi &laquo; Gambit de Printemps &raquo;</h2>
-                        <img class="img-article" src="assets/img/échecs partie.avif"
+                        <img class="article-image" src="assets/img/échecs partie.avif"
                             alt="Partie d'échecs au tournoi Gambit de Printemps">
                         <div class="text-content">
                             <p class="summary">
@@ -116,8 +116,8 @@
 
                 <a href="assets/pages/articles/nouveau-site-web.php" target="_self">
                     <div class="box-article">
-                        <h2>Nouveau site web disponible</h2>
-                        <img class="img-article" src="assets/img/chess in front of computer.jpg"
+                        <h2>Déploiement du nouveau site</h2>
+                        <img class="article-image" src="assets/img/chess in front of computer.jpg"
                             alt="Illustration de pions d'un plateau d'échecs en face d'un écran d'ordinateur">
                         <div class="text-content">
                             <p class="summary">Ô jeune pousse, les Cavaliers de l'apocallypse vous présente leur nouveau
