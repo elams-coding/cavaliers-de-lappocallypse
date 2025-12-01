@@ -6,8 +6,8 @@
 
             <ul>
                 <li>
-                    <a href="https://discord.com">
-                        <img class="logo-marque" src="assets/img/discord-logo.png" alt="Logo de Discord">
+                    <a href="https://discord.com" target="_blank" rel="noreferrer noopener">
+                        <img class="logo-marque" src="assets/img/logo/discord-logo.png" alt="Logo de Discord">
                         <span>Discord</span>
                     </a>
                 </li>
@@ -15,8 +15,8 @@
                 <hr>
 
                 <li>
-                    <a href="https://facebook.com">
-                        <img class="logo-marque" src="assets/img/facebook-logo.png" alt="Logo de Facebooks">
+                    <a href="https://facebook.com" target="_blank" rel="noreferrer noopener">
+                        <img class="logo-marque" src="assets/img/logo/facebook-logo.png" alt="Logo de Facebooks">
                         <span>Facebook</span>
                     </a>
                 </li>
@@ -24,8 +24,8 @@
                 <hr>
 
                 <li>
-                    <a href="https://x.com">
-                        <img class="logo-marque" src="assets/img/x-logo.png" alt="Logo de X">
+                    <a href="https://x.com" target="_blank" rel="noreferrer noopener">
+                        <img class="logo-marque" src="assets/img/logo/x-logo.png" alt="Logo de X">
                         <span>X</span>
                     </a>
                 </li>
