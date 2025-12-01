@@ -5,10 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="Site Web du club d'échec les Cavaliers de l'apocalypse. Ici, vous trouverez les actualités de votre club d'échecs.">
+        content="Site Web du club d'échec les Cavaliers de l'apocallypse. Ici, vous trouverez les actualités de votre club d'échecs.">
     <meta http-equiv="X-UA-Compatible" content="IE=7">
-    <title>Articles - Cavaliers de l'apocalypse</title>
-    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Articles - Cavaliers de l'apocallypse</title>
+    <link rel="stylesheet" href="../../css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -21,9 +21,8 @@
 
 <body>
     <?php
-    include 'assets/includes/header.php';
-
-    include 'assets/includes/menu.php';
+        include "../../includes/header.php";
+        include "../../includes/menu2.php";
     ?>
 
     <main>
@@ -31,7 +30,9 @@
         
     </main>
 
-    <?php include 'assets/includes/footer.php'; ?>
+    <?php
+        include "../../includes/footer.php";
+    ?>
 </body>
 
 </html>

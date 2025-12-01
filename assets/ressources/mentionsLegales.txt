@@ -2,12 +2,12 @@
 
 ## 1. Présentation du site
 
-Le présent site est édité par **Les Cavaliers de l’Apocalypse**, association régie par la loi du 1er juillet 1901.
+Le présent site est édité par **Les Cavaliers de l’apocallypse**, association régie par la loi du 1er juillet 1901.
 Adresse du siège social : 172 rue Pichon, 42500 Saint Hubert
-Responsable de la publication : **Association Les Cavaliers de l’Apocalypse**
+Responsable de la publication : **Association Les Cavaliers de l’apocallypse**
 Adresse e-mail de contact : lescavaliers@notremail.com
 
-Le site **Les Cavaliers de l’Apocalypse** a pour objet de présenter les activités du club d’échecs du même nom.
+Le site **Les Cavaliers de l’apocallypse** a pour objet de présenter les activités du club d’échecs du même nom.
 
 ---
 
@@ -23,20 +23,20 @@ Site web : https://www.ovhcloud.com
 
 ## 3. Propriété intellectuelle
 
-L’ensemble des éléments du site (textes, images, graphismes, logo, structure, etc.) est la propriété exclusive de **Les Cavaliers de l’Apocalypse**, sauf mention contraire.
+L’ensemble des éléments du site (textes, images, graphismes, logo, structure, etc.) est la propriété exclusive de **Les Cavaliers de l’apocallypse**, sauf mention contraire.
 Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite sans autorisation écrite préalable.
 
 ---
 
 ## 4. Responsabilité
 
-Le site **Les Cavaliers de l’Apocalypse** s’efforce de fournir des informations précises et à jour, mais ne saurait être tenu responsable des erreurs, omissions ou inexactitudes, ni d’une indisponibilité du site.
+Le site **Les Cavaliers de l’apocallypse** s’efforce de fournir des informations précises et à jour, mais ne saurait être tenu responsable des erreurs, omissions ou inexactitudes, ni d’une indisponibilité du site.
 
 ---
 
 ## 5. Protection des données personnelles (RGPD)
 
-Conformément au **Règlement Général sur la Protection des Données (UE) 2016/679** et à la **loi Informatique et Libertés** du 6 janvier 1978 modifiée, **Les Cavaliers de l’Apocalypse** s’engage à assurer la protection, la confidentialité et la sécurité des données personnelles des utilisateurs.
+Conformément au **Règlement Général sur la Protection des Données (UE) 2016/679** et à la **loi Informatique et Libertés** du 6 janvier 1978 modifiée, **Les Cavaliers de l’apocallypse** s’engage à assurer la protection, la confidentialité et la sécurité des données personnelles des utilisateurs.
 
 ### Données collectées
 
@@ -71,7 +71,7 @@ Conformément à la réglementation en vigueur, vous disposez des droits suivant
 * Droit à la portabilité des données.
 
 Pour exercer ces droits, contactez :
-**Les Cavaliers de l’Apocalypse**
+**Les Cavaliers de l’apocallypse**
 E-mail : lescavaliers@notremail.com
 
 En cas de désaccord, vous pouvez déposer une réclamation auprès de la **CNIL** :
@@ -81,7 +81,7 @@ https://www.cnil.fr
 
 ## 6. Cookies
 
-Le site **Les Cavaliers de l’Apocalypse** ne dépose aucun cookie de suivi ni traceur à des fins statistiques ou publicitaires.
+Le site **Les Cavaliers de l’apocallypse** ne dépose aucun cookie de suivi ni traceur à des fins statistiques ou publicitaires.
 Seuls des cookies techniques nécessaires au bon fonctionnement du site peuvent être utilisés.
 
 ---
@@ -93,4 +93,4 @@ Tout litige relatif à l’utilisation du site sera soumis à la compétence des
 
 ---
 
-© 2025 Les Cavaliers de l’Apocalypse — Tous droits réservés.
+© 2025 Les Cavaliers de l’apocallypse — Tous droits réservés.

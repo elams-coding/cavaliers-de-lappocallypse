@@ -1,4 +1,4 @@
-# Cavaliers de l'apocalypse
+# Cavaliers de l'apocallypse
 
 **Club d'échec**
 
