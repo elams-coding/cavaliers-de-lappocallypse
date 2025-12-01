@@ -1,5 +1,5 @@
 <section>
-    <!-- Section qui sert de menu -->
+    <!-- Section menu -->
     <h3>Menu</h3>
 
     <hr>
