@@ -280,3 +280,37 @@ footer ul {
 #bloc-mention {
     text-align: justify;
 }
+
+#tableau-membres {
+    border: 2px solid var(--secondary-color);
+    border-radius: 3px;
+    margin: 20px 0;
+    width: 100%;
+}
+
+#tableau-membres caption {
+    caption-side: top !important;
+    text-align: left;
+    margin-bottom: 15px;
+    font-weight: 900;
+    font-size: large;
+    font-style: italic;
+}
+
+#tableau-membres thead {
+    text-align: center;
+}
+
+#tableau-membres th,
+#tableau-membres td {
+    border: 1px solid var(--third-color);
+    padding: 10px;
+}
+
+#tableau-membres td:first-of-type {
+    text-align: left !important;
+}
+
+#tableau-membres td {
+    text-align: right;
+}
