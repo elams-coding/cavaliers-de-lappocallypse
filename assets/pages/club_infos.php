@@ -45,7 +45,7 @@
             </p>
 
             <p>
-                Aujourd'hui nous comptons plus d'une cinquantaine de membres actifs, en partant du novice aux joueurs
+                Aujourd'hui nous comptons plus d'une trentaine de membres actifs, en partant du novice aux joueurs
                 plus expérimentés. Ils sont notre moteur dans la vie du club et apportent tous un soutien essentiel au
                 bon fonctionnement de celui-ci.
             </p>
@@ -71,6 +71,7 @@
                         <td>700</td>
                         <td>900</td>
                     </tr>
+
                     <tr>
                         <td>Marie Dubois</td>
                         <td>1500</td>
