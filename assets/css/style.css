@@ -324,3 +324,32 @@ footer ul {
 #tableau-membres td {
     text-align: right;
 }
+
+#main-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form {
+    background: var(--secondary-color);
+    border-radius: 20px;
+    color: var(--third-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+form div {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+form textarea {
+    min-width: 170px;
+    min-height: 50px;
+    max-width: 300px;
+    max-height: 100px;
+}
