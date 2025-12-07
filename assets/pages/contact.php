@@ -20,21 +20,47 @@
 </head>
 
 <body>
-    <header>
-        <!-- (En-tête) Bannière du site web -->
-    </header>
+    <?php
+        include "../includes/header.php";
+        
+        include "../includes/menu3.php";
+    ?>
 
-    <section>
-        <!-- Section qui sert de menu -->
-    </section>
-
-    <main>
+    <main id="main-form">
         <!-- Contenu principal de la page -->
+        <form action="" method="post">
+            <div>
+                <label for="nom">Nom :</label>
+                <input type="text" placeholder="Votre nom" required><br>
+            </div>
+
+            <div>
+                <label for="prenom">Prénom :</label>
+                <input type="text" placeholder="Votre prénom" required><br>
+            </div>
+
+            <div>
+                <label for="email">Adresse email :</label>
+                <input type="email" placeholder="votre.adresse@exemple.com" required><br>
+            </div>
+
+            <div>
+                <label for="sujet">Sujet :</label>
+                <input type="text" placeholder="Le sujet du message" required><br>
+            </div>
+
+            <div>
+                <label for="message">Message :</label>
+                <textarea placeholder="Votre message..." required rows="4"></textarea><br>
+            </div>
+
+            <input type="submit" value="Envoyer">
+        </form>
     </main>
 
-    <footer>
-        <!-- Pied de page  -->
-    </footer>
+    <?php
+        include "../includes/footer2.php";
+    ?>
 </body>
 
 </html>
