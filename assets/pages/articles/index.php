@@ -27,11 +27,11 @@
 
     <main>
         <!-- Contenu principal de la page -->
-        
+
     </main>
 
     <?php
-        include "../../includes/footer.php";
+        include "../../includes/footer2.php";
     ?>
 </body>
 
