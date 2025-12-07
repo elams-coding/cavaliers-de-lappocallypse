@@ -281,6 +281,16 @@ footer ul {
     text-align: justify;
 }
 
+#main-article-index {
+    text-align: center;
+    font-size: large;
+}
+
+#a-vos-plateau {
+    font-weight: 900;
+    font-size: x-large;
+}
+
 #tableau-membres {
     border: 2px solid var(--secondary-color);
     border-radius: 3px;

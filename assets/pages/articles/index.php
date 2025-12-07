@@ -25,9 +25,11 @@
         include "../../includes/menu2.php";
     ?>
 
-    <main>
+    <main id="main-article-index">
         <!-- Contenu principal de la page -->
-
+        <p>Si vous êtes ici c'est que votre article a été volé par le fou.</p>
+        <p>Laissez nos cavaliers se charger de le récupérer pour vous.</p>
+        <p id="a-vos-plateau">A vos plateaux !</p>
     </main>
 
     <?php
