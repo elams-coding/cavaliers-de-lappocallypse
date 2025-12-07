@@ -50,7 +50,7 @@
     </div>
 
     <div id="last-lines">
-        <span>Cavalier&NonBreakingSpace;de&NonBreakingSpace;l'apocallypse</span>
+        <span>Cavalier&NonBreakingSpace;de&NonBreakingSpace;l'apocalypse</span>
         <span>
             &copy;&NonBreakingSpace;<?php echo date("Y") ?>
             Tous&NonBreakingSpace;droits&NonBreakingSpace;réservés.

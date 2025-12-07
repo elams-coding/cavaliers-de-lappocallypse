@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="Page dédié aux informations du club d'échec les Cavaliers de l'apocallypse. Ici, vous trouverez des informations sur le club et ses différents membres.">
+        content="Page dédié aux informations du club d'échec les Cavaliers de l'apocalypse. Ici, vous trouverez des informations sur le club et ses différents membres.">
     <meta http-equiv="X-UA-Compatible" content="IE=7">
-    <title>Infos du club et des membres - Cavaliers de l'apocallypse</title>
+    <title>Infos du club et des membres - Cavaliers de l'apocalypse</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -33,7 +33,7 @@
             <h2>Informations générales du club</h2>
 
             <p>
-                Le club d'échecs Cavaliers de l'apocallypse a été fondé le 14 février 1994. Le nom était alors
+                Le club d'échecs Cavaliers de l'apocalypse a été fondé le 14 février 1994. Le nom était alors
                 Capablanca et le Siège Social se trouvait à la cafétéria Le Magnolia. L'activité échiquéenne consistait
                 seulement à la pratique d'un loisir entre amis.
             </p>

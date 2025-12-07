@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Site Web du club d'échec les Cavaliers de l'apocallypse.">
+    <meta name="description" content="Site Web du club d'échec les Cavaliers de l'apocalypse.">
     <meta http-equiv="X-UA-Compatible" content="IE=7">
-    <title>Déploiement du nouveau site - Les Cavaliers de l'apocallypse</title>
+    <title>Déploiement du nouveau site - Les Cavaliers de l'apocalypse</title>
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -35,7 +35,7 @@
 
             <div class=>
                 <p class="en-tete-texte">
-                    Ô jeune pousse, les Cavaliers de l'apocallypse vous présente leur nouveau site&NonBreakingSpace;web.
+                    Ô jeune pousse, les Cavaliers de l'apocalypse vous présente leur nouveau site&NonBreakingSpace;web.
                     <br>Nouveau, moderne et tout frais !
                 </p>
                 <p>

@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="Site Web du club d'échec les Cavaliers de l'apocallypse. Ici, vous trouverez les actualités de votre club d'échecs.">
+        content="Site Web du club d'échec les Cavaliers de l'apocalypse. Ici, vous trouverez les actualités de votre club d'échecs.">
     <meta http-equiv="X-UA-Compatible" content="IE=7">
-    <title>Cavaliers de l'apocallypse</title>
+    <title>Cavaliers de l'apocalypse</title>
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -120,7 +120,7 @@
                         <img class="article-image" src="assets/img/chess in front of computer.jpg"
                             alt="Illustration de pions d'un plateau d'échecs en face d'un écran d'ordinateur">
                         <div class="text-content">
-                            <p class="summary">Ô jeune pousse, les Cavaliers de l'apocallypse vous présente leur nouveau
+                            <p class="summary">Ô jeune pousse, les Cavaliers de l'apocalypse vous présente leur nouveau
                                 site
                                 web.
                                 <br>Nouveau, moderne et tout frais !

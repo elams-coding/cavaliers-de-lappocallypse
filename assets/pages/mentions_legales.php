@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Ici, vous trouverez les mentions légales relatives.">
     <meta http-equiv="X-UA-Compatible" content="IE=7">
-    <title>Mentions Légales - Cavaliers de l'apocallypse</title>
+    <title>Mentions Légales - Cavaliers de l'apocalypse</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -31,16 +31,16 @@
         <h3>1. Présentation du site</h3>
 
         <p>
-            Le présent site est édité par <strong>Les Cavaliers de l’apocallypse</strong>, association régie par la loi
+            Le présent site est édité par <strong>Les Cavaliers de l’apocalypse</strong>, association régie par la loi
             du 1er juillet 1901.
             <br>
             Adresse du siège social : 172 rue Pichon, 42500 Saint Hubert
             <br>
-            Responsable de la publication : <strong>Association Les Cavaliers de l’apocallypse</strong>
+            Responsable de la publication : <strong>Association Les Cavaliers de l’apocalypse</strong>
             <br>
             Adresse e-mail de contact : lescavaliers@notremail.com
         </p>
-        <p>Le site <strong>Les Cavaliers de l’apocallypse</strong> a pour objet de présenter les activités du club
+        <p>Le site <strong>Les Cavaliers de l’apocalypse</strong> a pour objet de présenter les activités du club
             d’échecs du même nom.
         </p>
 
@@ -64,7 +64,7 @@
 
         <p>
             L’ensemble des éléments du site (textes, images, graphismes, logo, structure, etc.) est la propriété
-            exclusive de <strong>Les Cavaliers de l’apocallypse</strong>, sauf mention contraire.
+            exclusive de <strong>Les Cavaliers de l’apocalypse</strong>, sauf mention contraire.
             <br>
             Toute reproduction, représentation, modification, publication ou adaptation de tout ou partie des éléments
             du
@@ -76,7 +76,7 @@
         <h3>4. Responsabilité</h3>
 
         <p>
-            Le site <strong>Les Cavaliers de l’apocallypse</strong> s’efforce de fournir des informations précises et à
+            Le site <strong>Les Cavaliers de l’apocalypse</strong> s’efforce de fournir des informations précises et à
             jour, mais ne saurait être tenu responsable des erreurs, omissions ou inexactitudes, ni d’une
             indisponibilité du site.
         </p>
@@ -88,7 +88,7 @@
         <p>
             Conformément au <strong>Règlement Général sur la Protection des Données (UE) 2016/679</strong> et à la
             <strong>loi Informatique et Libertés</strong>
-            du 6 janvier 1978 modifiée, <strong>Les Cavaliers de l’apocallypse</strong> s’engage à assurer la
+            du 6 janvier 1978 modifiée, <strong>Les Cavaliers de l’apocalypse</strong> s’engage à assurer la
             protection, la confidentialité et la sécurité des données personnelles des utilisateurs.
         </p>
 
@@ -135,7 +135,7 @@
 
         <p>
             Pour exercer ces droits, contactez :
-            <strong>Les Cavaliers de l’apocallypse</strong>
+            <strong>Les Cavaliers de l’apocalypse</strong>
             E-mail : <a href="mailto:lescavaliers@notremail.com">lescavaliers@notremail.com</a>
             <br>
             En cas de désaccord, vous pouvez déposer une réclamation auprès de la <strong>CNIL</strong> :
@@ -146,7 +146,7 @@
 
         <h3>6. Cookies</h3>
 
-        <p>Le site <strong>Les Cavaliers de l’apocallypse</strong> ne dépose aucun cookie de suivi ni traceur à des fins
+        <p>Le site <strong>Les Cavaliers de l’apocalypse</strong> ne dépose aucun cookie de suivi ni traceur à des fins
             statistiques ou publicitaires.
             <br>
             Seuls des cookies techniques nécessaires au bon fonctionnement du site peuvent être utilisés.
