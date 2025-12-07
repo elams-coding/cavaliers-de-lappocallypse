@@ -28,6 +28,45 @@
 
     <main>
         <!-- Contenu principal de la page -->
+
+        <section id="box-infos-club" class="box-infos">
+            <h2>Informations générales du club</h2>
+
+            <p>
+                Le club d'échecs Cavaliers de l'apocallypse a été fondé le 14 février 1994. Le nom était alors
+                Capablanca et le Siège Social se trouvait à la cafétéria Le Magnolia. L'activité échiquéenne consistait
+                seulement à la pratique d'un loisir entre amis.
+            </p>
+
+            <p>
+                Aujourd'hui, le Siège Social est au F.J.T. "Les 3 Portes" et depuis septembre 2002, le Club d'Echecs est
+                affilié à la Fédération Française des Echecs. En conservant bien sur son caractère convivial,
+                l'association organise et participe à des compétitions officielles, par équipes ou individuelles.
+            </p>
+
+            <p>
+                Aujourd'hui nous comptons plus d'une cinquantaine de membres actifs, en partant du novice aux joueurs
+                plus expérimentés. Ils sont notre moteur dans la vie du club et apportent tous un soutien essentiel au
+                bon fonctionnement de celui-ci.
+            </p>
+        </section>
+
+        <section id="box-infos-membres" class="box-infos">
+            <h2>Informations générales des membres</h2>
+
+            <table id="tableau-membres">
+                <caption>Liste des membres</caption>
+                <thead>
+                    <tr>
+                        <th scope="col">Nom et Prénom</th>
+                        <th scope="col">Score Elo</th>
+                        <th scope="col">Score Rapide</th>
+                        <th scope="col">Score Blitz</th>
+                    </tr>
+                </thead>
+            </table>
+
+        </section>
     </main>
 
     <?php
