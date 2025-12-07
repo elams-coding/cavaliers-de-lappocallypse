@@ -1,4 +1,4 @@
-<section>
+<section class="nav-bar">
     <!-- Section menu -->
     <h3>Menu</h3>
 
