@@ -271,3 +271,7 @@ footer ul {
 .en-tete-texte {
     font-style: italic;
 }
+
+#bloc-mention {
+    text-align: justify;
+}
