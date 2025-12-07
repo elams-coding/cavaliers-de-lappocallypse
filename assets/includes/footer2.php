@@ -38,7 +38,7 @@
             <h3>Mentions légales</h3>
             <ul>
                 <li>
-                    <a href="assets/pages/mentions_legales.php" target="_blank">Lien vers les
+                    <a href="/assets/pages/mentions_legales.php" target="_blank">Lien vers les
                         mentions&NonBreakingSpace;légales</a>
                 </li>
                 <li>
