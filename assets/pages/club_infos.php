@@ -54,7 +54,8 @@
         <section id="box-infos-membres" class="box-infos">
             <h2>Informations générales des membres</h2>
 
-            <table id="tableau-membres">
+            <table id="tableau-membres"
+                summary="Tableau présentant la liste des membres non exhaustive et leur différents score (elo, rapide et blitz)">
                 <caption>Liste des membres</caption>
                 <thead>
                     <tr>
@@ -63,6 +64,62 @@
                         <th scope="col">Score Rapide</th>
                         <th scope="col">Score Blitz</th>
                     </tr>
+                <tbody>
+                    <tr>
+                        <td>Yung Li</td>
+                        <td>1300</td>
+                        <td>700</td>
+                        <td>900</td>
+                    </tr>
+                    <tr>
+                        <td>Marie Dubois</td>
+                        <td>1500</td>
+                        <td>850</td>
+                        <td>1100</td>
+                    </tr>
+
+                    <tr>
+                        <td>Jean-Pierre Martin</td>
+                        <td>2100</td>
+                        <td>1200</td>
+                        <td>1800</td>
+                    </tr>
+
+                    <tr>
+                        <td>Fatima Ziani</td>
+                        <td>950</td>
+                        <td>450</td>
+                        <td>600</td>
+                    </tr>
+
+                    <tr>
+                        <td>David Tremblay</td>
+                        <td>4200</td>
+                        <td>2500</td>
+                        <td>3100</td>
+                    </tr>
+
+                    <tr>
+                        <td>Sophie Lemaire</td>
+                        <td>600</td>
+                        <td>200</td>
+                        <td>350</td>
+                    </tr>
+
+                    <tr>
+                        <td>Carlos Da Silva</td>
+                        <td>1800</td>
+                        <td>900</td>
+                        <td>1500</td>
+                    </tr>
+
+                    <tr>
+                        <td>Amélie Richard</td>
+                        <td>2500</td>
+                        <td>1500</td>
+                        <td>2000</td>
+                    </tr>
+                </tbody>
                 </thead>
             </table>
 
